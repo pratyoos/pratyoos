@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @pratyoos
-- 🔰  I'm a super begineer in development 
-- 👀 I’m interested in Web & WebApp Dev
-- 🌱 I’m currently learning JS
-- 📫 How to reach me https://www.linkedin.com/in/pratyoos
+- 👋 Hi, I’m @pratyoos.
+- 🔰 I'm a beginner in software development.
+- 👀 I’m interested in Full Stack Web Development.
+- 🌱 I’m currently learning JS frameworks.
+- 📫 Reach me at https://www.linkedin.com/in/pratyoos.
