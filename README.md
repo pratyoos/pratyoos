@@ -41,7 +41,7 @@ You might catch me coding, writing blogs, tweeting stuffs or just wondering what
 
 - 🧑‍💻 Vice-President @<a href = "https://www.linkedin.com/company/acesioe-pc/">ACES</a> | Organizer of tech events, hackathons & more.
 - 💼 Backend Developer @<a href = "https://www.linkedin.com/company/sayapatri4tech/">Sayapatri Group</a> | Building APIs using Express.
-- ✍️ Doing my studies in **Computer Engineering.** | Currently in 5th sem.
+- ✍️ Doing my studies in **Computer Engineering** | Currently in 5th sem.
 - 🧪 Experimenting with Express, MongoDB | React, NextJS.
 - 🎯 Goal: Become a bulletproof Full Stack Developer.
 
