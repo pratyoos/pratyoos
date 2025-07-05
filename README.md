@@ -30,13 +30,13 @@ You might catch me coding, writing blogs, tweeting stuff, or just wondering what
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyoos&layout=compact&hide_border=true&theme=github_light&cache_seconds=86400" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pratyoos&show_icons=true&hide_border=true&count_private=true&theme=github_light&cache_seconds=86400" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyoos&layout=compact&hide_border=true&theme=github_light&cache_seconds=10" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pratyoos&show_icons=true&hide_border=true&count_private=true&theme=github_light&cache_seconds=10" width="45%"/>
 </div>
 
 ---
 
-## 🧠 Random Facts
+## 📄 Random Facts
 
 - 🧑‍💻 Vice-President @<a href="https://www.linkedin.com/company/acesioe-pc/">ACES</a> | Organizer of tech events, hackathons & more.
 - 💼 Backend Developer @<a href="https://www.linkedin.com/company/sayapatri4tech/">Sayapatri Group</a> – Building production-ready REST APIs with Express and MongoDB.
