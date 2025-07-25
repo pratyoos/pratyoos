@@ -2,9 +2,9 @@
 
 ### 🙃 Welcome to my zone of weirdness + APIs
 
-I'm a backend-focused full-stack developer & undergrad computer engineering student from Nepal who enjoys building products that **do the heavy lifting** behind the scenes. Whether it’s building a REST API, integrating a payment system, or optimizing performance—I’m probably up late trying to make it cooler, faster, or just...work.
+I'm a backend-focused full-stack developer & undergrad computer engineering student from Nepal skilled in MERN/NextJS/NestJS. Whether it’s building a REST API, integrating a payment system, or optimizing performance—I’m probably up late trying to make it cooler, faster, or just...work.
 
-You might catch me coding, writing blogs, tweeting stuff, or just wondering what's happening with my life ;)
+You might catch me coding, writing blogs, listening songs, or just wondering what's happening with my life ;)
 
 ---
 
