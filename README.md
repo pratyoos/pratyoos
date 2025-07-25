@@ -2,7 +2,7 @@
 
 ### 🙃 Welcome to my zone of weirdness + APIs
 
-I'm a backend-focused full-stack developer & undergrad computer engineering student from Nepal skilled in MERN/NextJS/NestJS. Whether it’s building a REST API, integrating a payment system, or optimizing performance—I’m probably up late trying to make it cooler, faster, or just...work.
+I'm a backend-focused full-stack developer & undergrad computer engineering student from Nepal skilled in MERN/NextJS/NestJS. Whether it’s building a REST API, integrating a payment system, or optimizing performance, I’m probably up late trying to make it cooler, faster, or just...work.
 
 You might catch me coding, writing blogs, listening songs, or just wondering what's happening with my life ;)
 
@@ -22,7 +22,6 @@ You might catch me coding, writing blogs, listening songs, or just wondering wha
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ---
