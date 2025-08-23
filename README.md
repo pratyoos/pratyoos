@@ -1,10 +1,37 @@
-## Hey there, I'm Pratyoos Panta!
+## Hey there, I'm Pratyoos!
 
 ### Welcome to my zone of weirdness + APIs
 
-I'm a backend-focused full-stack developer & undergrad computer engineering student from Nepal skilled in MERN/NextJS/NestJS. Whether it’s building a REST API, integrating a payment system, or optimizing performance, I’m probably up late trying to make it cooler, faster, or just...work.
+I'm a backend-focused full-stack developer & undergrad computer engineering student from Nepal skilled in MERN/NextJS/NestJS. Whether it’s building a REST API, building backend logics, or optimizing performance, I’m probably up late trying to make it better, faster, or just...work.
 
 You might catch me coding, writing blogs, listening songs, or just wondering what's happening with my life ;)
+
+## My Socials
+
+<p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pratyoos" target="_blank">
+    <img align="center" src="assets/icons/linkedin.svg" alt="LinkedIn" height="60" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/praty00s" target="_blank">
+    <img align="center" src="assets/icons/instagram.svg" alt="Instagram" height="60" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/PratyoosPanta" target="_blank">
+    <img align="center" src="assets/icons/x.svg" alt="X" height="80" width="70" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@pratyoos" target="_blank">
+    <img align="center" src="assets/icons/medium.svg" alt="Medium" height="60" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:pratyoospanta@gmail.com" target="_blank">
+    <img align="center" src="assets/icons/gmail.svg" alt="Gmail" height="60" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/praty00s" target="_blank">
+    <img align="center" src="assets/icons/discord.svg" alt="Discord" height="60" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/praty00s" target="_blank">
+    <img align="center" src="assets/icons/facebook.svg" alt="Facebook" height="60" width="50" />
+  </a>
+</p>
 
 ---
 
@@ -39,7 +66,7 @@ You might catch me coding, writing blogs, listening songs, or just wondering wha
 ## Random Facts
 
 - Vice-President @<a href="https://www.linkedin.com/company/acesioe-pc/">ACES</a> | Organizer of tech events, hackathons & more.
-- Backend Developer @<a href="https://www.linkedin.com/company/sayapatri4tech/">Sayapatri Group</a> – Building production-ready REST APIs with Express and MongoDB.
+- Backend Developer @<a href="https://www.linkedin.com/company/sayapatri4tech/">Sayapatri Group</a> – Building production-ready REST APIs with Express and NestJS.
 - Computer Engineering undergrad | Currently in 5th semester.
 - Constantly tinkering with Express, NestJS, MongoDB, React & Next.js.
 - Goal: Become a bulletproof Full Stack Developer.
