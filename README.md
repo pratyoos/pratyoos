@@ -16,6 +16,8 @@ You might catch me coding, writing blogs, listening songs, or just wondering wha
   <a href="https://medium.com/@pratyoos" target="_blank"><img align="center" src="assets/icons/medium.svg" alt="Medium" height="60" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:pratyoospanta@gmail.com" target="_blank"><img align="center" src="assets/icons/gmail.svg" alt="Gmail" height="60" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/praty00s" target="_blank"><img align="center" src="assets/icons/discord.svg" alt="Discord" height="60" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/23469144/pratyoos" target="_blank"><img align="center" src="assets/icons/stacko.svg" alt="Stack Overflow" height="60" width="50" /></a>
+
 </p>
 
 ---
