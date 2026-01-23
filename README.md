@@ -6,20 +6,6 @@ I'm a backend-focused full-stack developer & undergrad computer engineering stud
 
 You might catch me coding, writing blogs, listening songs, or just wondering what's happening with my life ;)
 
-## My Socials
-
-<p>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pratyoos" target="_blank"><img align="center" src="assets/icons/linkedin.svg" alt="LinkedIn" height="60" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/praty00s" target="_blank"><img align="center" src="assets/icons/instagram.svg" alt="Instagram" height="60" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/praty00s" target="_blank"><img align="center" src="assets/icons/x.svg" alt="X" height="80" width="70" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@pratyoos" target="_blank"><img align="center" src="assets/icons/medium.svg" alt="Medium" height="60" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:pratyoospanta@gmail.com" target="_blank"><img align="center" src="assets/icons/gmail.svg" alt="Gmail" height="60" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/praty00s" target="_blank"><img align="center" src="assets/icons/discord.svg" alt="Discord" height="60" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/23469144/pratyoos" target="_blank"><img align="center" src="assets/icons/stacko.svg" alt="Stack Overflow" height="60" width="50" /></a>
-
-</p>
-
 ---
 
 ## Tech Stack & Tools
@@ -44,8 +30,7 @@ You might catch me coding, writing blogs, listening songs, or just wondering wha
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyoos&layout=compact&hide_border=true&theme=github_light&cache_seconds=86400" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pratyoos&show_icons=true&hide_border=true&count_private=true&theme=github_light&cache_seconds=86400" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyoos&layout=compact&cache_seconds=86400" width="45%"/>
 </div>
 
 ---
@@ -53,10 +38,11 @@ You might catch me coding, writing blogs, listening songs, or just wondering wha
 ## Random Facts
 
 - Vice-President @<a href="https://www.linkedin.com/company/acesioe-pc/">ACES</a> | Organizer of tech events, hackathons & more.
-- Backend Developer @<a href="https://www.linkedin.com/company/sayapatri4tech/">Sayapatri Group</a> – Building production-ready REST APIs with Express and NestJS.
-- Computer Engineering undergrad | Currently in 5th semester.
+- Associate Coordinator @<a href="https://www.linkedin.com/company/taranga-ioe-purwanchal-campus">Taranga</a> | Annual Techfest at IOE Purwanchal.
+- Computer Engineering undergrad | Currently in 6th semester.
 - Constantly tinkering with Express, NestJS, MongoDB, React & Next.js.
-- Goal: Become a bulletproof Full Stack Developer.
+- Curious and Exploring Machine Learning.
+- Goal: Become an intermediate Backend Developer and explore ML more.
 
 ---
 
